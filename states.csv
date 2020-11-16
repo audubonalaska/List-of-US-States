@@ -38,6 +38,7 @@
 "Mississippi","MS"
 "Missouri","MO"
 "Pennsylvania","PA"
+"Puerto Rico", "PR"
 "Rhode Island","RI"
 "South Carolina","SC"
 "South Dakota","SD"
@@ -50,3 +51,4 @@
 "West Virginia","WV"
 "Wisconsin","WI"
 "Wyoming","WY"
+"Other", "NA" 
